@@ -3,9 +3,16 @@ Bike modeling with mate animations
 
 
 ![American Chopper](https://github.com/OmkarBharambe/American-Chopper-Bike-Modeling/blob/main/Images/Chopper_isometric.png)
+American Chopper
+
 
 ![](https://github.com/OmkarBharambe/American-Chopper-Bike-Modeling/blob/main/Images/Chopper_isometricback.png)
 
 ![Side View](https://github.com/OmkarBharambe/American-Chopper-Bike-Modeling/blob/main/Images/Chopper_sideview.png)
+Side View
+
 
 ![Top View](https://github.com/OmkarBharambe/American-Chopper-Bike-Modeling/blob/main/Images/Chopper_topview.png)
+Top View
+
+
