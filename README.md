@@ -1,5 +1,7 @@
 # American-Chopper-Bike-Modeling
-Bike modeling with mate animations
+Bike modeling with mate animations<br>
+
+Software: Onshape
 
 
 ![American Chopper](https://github.com/OmkarBharambe/American-Chopper-Bike-Modeling/blob/main/Images/Chopper_isometric.png)<br>
